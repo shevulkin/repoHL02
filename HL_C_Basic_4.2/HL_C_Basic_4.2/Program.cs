@@ -46,5 +46,4 @@ switch (action)
 }
 //show result
 Console.WriteLine($"Результат: {result}");
-Console.WriteLine(result / 0);
 
