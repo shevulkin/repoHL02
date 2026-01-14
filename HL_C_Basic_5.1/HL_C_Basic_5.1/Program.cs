@@ -1,5 +1,4 @@
-﻿using System.Buffers.Text;
-using System.Text;
+﻿using System.Text;
 Console.OutputEncoding = Encoding.UTF8;
 
 //ДЗ 5.1.Цикли
