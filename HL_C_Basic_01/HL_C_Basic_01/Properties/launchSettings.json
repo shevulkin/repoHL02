@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "HL_C_Basic_01": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

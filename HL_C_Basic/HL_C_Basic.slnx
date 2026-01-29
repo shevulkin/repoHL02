@@ -2,6 +2,7 @@
   <Project Path="../HL_C_Basic_01/HL_C_Basic_01/HL_C_Basic_01.csproj" />
   <Project Path="../HL_C_Basic_4.2/HL_C_Basic_4.2/HL_C_Basic_4.2.csproj" />
   <Project Path="../HL_C_Basic_5.1/HL_C_Basic_5.1/HL_C_Basic_5.1.csproj" />
+  <Project Path="HL_C_Basic_8.1/HL_C_Basic_8.1.csproj" Id="101df3e4-d36c-40b8-aabc-30e3f01e8830" />
   <Project Path="Task_7.1/HL_C_Basic_7.1.csproj" />
   <Project Path="Task_7.2/HL_C_Basic_7.2.csproj" Id="df6d5424-a6a5-466d-afe1-50f827d354e2" />
 </Solution>
