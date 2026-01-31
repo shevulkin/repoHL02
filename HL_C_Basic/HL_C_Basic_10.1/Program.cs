@@ -77,7 +77,7 @@ do
             break;
         }
     }
-    //невірна відповідь
+    //невірна відповідь/
     if (positions == 0)
     {
         wrongAnswers++;
