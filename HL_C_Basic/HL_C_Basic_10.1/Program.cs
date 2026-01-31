@@ -69,15 +69,15 @@ do
             charsWord[i] = guessedChar;
             Console.WriteLine($"Така літера є у слові! Позиція літери: {positions}");
         }
-
+        //перевірка на виграш
         if (guessedСountСhar == charsWord.Length)
         {
             Console.WriteLine($"Вітаємо, ви вгадали слово! Зашифроване слово: {secretWord}.");
             Console.WriteLine("Дякуємо за гру.");
             break;
         }
-
     }
+    //невірна відповідь
     if (positions == 0)
     {
         wrongAnswers++;
