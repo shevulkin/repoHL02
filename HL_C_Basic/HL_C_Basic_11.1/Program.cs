@@ -12,6 +12,11 @@ Console.OutputEncoding = Encoding.UTF8;
 Вихідне значення: 55
 */
 
+Console.Write("Введіть номер числа Фібоначчі: ");
+int n = int.Parse(Console.ReadLine());
+int result = fib(n);
+Console.WriteLine($"Число Фібоначчі під номером {n} дорівнює {result}.");
+
 int fib(int value)
 {
     //Виклик рекурсивної функції враховуючи інедексаці
@@ -19,15 +24,9 @@ int fib(int value)
 }
 
 int calFib(int value)
-
-{
+    {
     //щоб вийти з рекурсії треба задати умови
     if (value < 0) return 0;
     if (value == 1) return 1;
     return calFib(value - 1) + calFib(value - 2);
 }
-
-Console.Write("Введіть номер числа Фібоначчі: ");
-int n = int.Parse(Console.ReadLine());
-int result = fib(n);
-Console.WriteLine($"Число Фібоначчі під номером {n} дорівнює {result}.");
