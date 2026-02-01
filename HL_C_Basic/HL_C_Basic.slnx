@@ -1,12 +1,12 @@
 <Solution>
-  <Project Path="../HL_C_Basic_01/HL_C_Basic_01/HL_C_Basic_01.csproj" />
-  <Project Path="../HL_C_Basic_4.2/HL_C_Basic_4.2/HL_C_Basic_4.2.csproj" />
-  <Project Path="../HL_C_Basic_5.1/HL_C_Basic_5.1/HL_C_Basic_5.1.csproj" />
+  <Project Path="HL_C_Basic_01/HL_C_Basic_01.csproj" />
   <Project Path="HL_C_Basic_10.1/HL_C_Basic_10.1.csproj" Id="4d065625-82ac-4518-8a74-1827dd60a9d9" />
+  <Project Path="HL_C_Basic_4.2/HL_C_Basic_4.2.csproj" />
+  <Project Path="HL_C_Basic_5.1/HL_C_Basic_5.1.csproj" />
+  <Project Path="HL_C_Basic_7.1/HL_C_Basic_7.1.csproj" />
+  <Project Path="HL_C_Basic_7.2/HL_C_Basic_7.2.csproj" Id="df6d5424-a6a5-466d-afe1-50f827d354e2" />
   <Project Path="HL_C_Basic_8.1/HL_C_Basic_8.1.csproj" Id="101df3e4-d36c-40b8-aabc-30e3f01e8830" />
   <Project Path="HL_C_Basic_9.1/HL_C_Basic_9.1.csproj" Id="b1ee57f1-839e-4f98-bc1e-865dc62a14ef" />
   <Project Path="HL_C_Basic_9.2/HL_C_Basic_9.2.csproj" Id="d6548091-4476-4c37-a54a-ccdf76d08a68" />
   <Project Path="HL_C_Basic_9.3/HL_C_Basic_9.3.csproj" Id="9a1802fe-ddd6-41e6-b6a3-ee800ac665e0" />
-  <Project Path="Task_7.1/HL_C_Basic_7.1.csproj" />
-  <Project Path="Task_7.2/HL_C_Basic_7.2.csproj" Id="df6d5424-a6a5-466d-afe1-50f827d354e2" />
 </Solution>
