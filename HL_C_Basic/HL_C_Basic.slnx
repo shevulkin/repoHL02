@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="HL_C_Basic_01/HL_C_Basic_01.csproj" />
   <Project Path="HL_C_Basic_10.1/HL_C_Basic_10.1.csproj" Id="4d065625-82ac-4518-8a74-1827dd60a9d9" />
+  <Project Path="HL_C_Basic_11.1/HL_C_Basic_11.1.csproj" Id="7c3d3801-7b5e-47b3-b317-d028eaea92f9" />
   <Project Path="HL_C_Basic_4.2/HL_C_Basic_4.2.csproj" />
   <Project Path="HL_C_Basic_5.1/HL_C_Basic_5.1.csproj" />
   <Project Path="HL_C_Basic_7.1/HL_C_Basic_7.1.csproj" />
