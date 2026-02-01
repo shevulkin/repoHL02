@@ -24,7 +24,7 @@ int fib(int value)
 }
 
 int calFib(int value)
-    {
+{
     //щоб вийти з рекурсії треба задати умови
     if (value < 0) return 0;
     if (value == 1) return 1;
